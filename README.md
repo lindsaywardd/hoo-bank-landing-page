@@ -1,8 +1,11 @@
-# Hoobank Web app Landing Page
-A modern UI/UX bank landing page built with React and Tailwind CSS.
-![App Screenshot - Header](assets/HoobankScreenshot.png)
-Fully responsive!
-![App Screenshot - Header](assets/HoobankScreenshot2.png)
+# Hoobank Web-app Landing Page
+A modern UI/UX bank landing page website built with React and Tailwind CSS.
+
+![App Screenshot - Header](src/assets/HoobankScreenshot.png)
+
+## Fully responsive!
+
+![App Screenshot - Mobile View](src/assets/HoobankSceenshot2.png)
 
 ### React + Vite
 
